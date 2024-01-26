@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
-                    <h1 class="mt-sm-4 pb-sm-4">Sobre mí Janca</h1>
+                    <h1 class="mt-sm-4 pb-sm-4">Sobre mí</h1>
                     <p class="pb-sm-5">Apasionado por la tecnologia soy estudiante e instructor en la institucion en la
                         que estudio en el area de sistemas.</p>
                     <a href="contacto.php" class="btn btn-rojo">Enviar mensaje </a>
